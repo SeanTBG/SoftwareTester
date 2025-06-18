@@ -1,2 +1,186 @@
-# -
-记录自己的软件测试学习资料
+# 一位在职测试摸鱼收藏的网站
+闲来无事摸鱼收藏的各种资料网站，随缘分享
+
+
+ 《殡葬人手记》  
+
+[前言 – 人工智能教程](https://captainbed.vip/qianyan/)
+
+[Element - The world’s most popular Vue UI framework](https://element.eleme.cn/#/zh-CN)
+
+[一个 Vue 3 UI 框架 | Element Plus](https://element-plus.org/zh-CN/)
+
+```plain
+😈你是否发现自己花在手机上的时间比你意识到的要多？
+😈你是否发现自己经常盯着手机漫无目的地打发时间？
+😈你是否一用起手机就好像忘记了时间？
+😈你是否发现自己花更多的时间发短信、推特[插图]或电子邮件，而不是与人面对面交谈？
+😈你在手机上花的时间是否在增加？
+😈你是否希望自己少用点儿手机？
+😈你是否经常在睡觉时把手机（开机状态）放在枕头底下或床边？
+😈你是否发现自己整天都在查看和回复短信、推特和电子邮件，即使做这些会打断你正在做的其他事情？
+😈你在开车或做其他类似的需要全神贯注的活动时，是否会发短信、电子邮件、推特、Snapchat、Facebook消息或上网？
+😈你是否觉得使用手机有时会降低工作效率？
+😈你是否不愿离开手机，哪怕只是很短的时间？
+😈当你不小心把手机留在车里或家里，或者手机没信号或坏了，你会感到不自在或不舒服吗？
+😈吃饭的时候，你的手机是否总是放在餐桌上？
+😈当你的手机铃声或提示声响了时，你是否极其渴望去查看短信、推特、邮件、信息更新等？
+😈你是否发现自己每天都会无意识地查看手机很多次，即使你知道可能并没有什么新的或重要的东西需要查看？
+
+
+
+ 每个问题的分值均为1分。
+以下是格林菲尔德博士对测试分数的解读。
+• 1～2分：你的行为是正常的，但这并不意味着你就应该生活在智能手机里。
+• 3～4分：你的行为可能会出现问题或存在强迫性使用手机的倾向。
+• 5分或以上：你在使用手机方面很可能存在问题或强迫症。
+• 8分或以上：如果你的分数高于8分，那么你可以考虑找一位专门研究行为成瘾的心理学家、精神科医生或精神治疗医师进行咨询。    
+```
+
+[如何尽可能快地上手一个业务or项目？](https://mp.weixin.qq.com/s/I-876sJiI-XFRdDkvJV_mg)
+
+[聊一聊职业发展 · 测试之家](https://testerhome.com/topics/16354)
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38366403/1744595160180-b3b986fb-85ff-40b7-bdb9-7326e5aecc98.png)
+
+[pytest documentation](https://docs.pytest.org/en/stable/)
+
+[完整的Pytest文档 — pytest documentation](https://www.osgeo.cn/pytest/contents.html)
+
+[Download Apache Maven – Maven](https://maven.apache.org/download.cgi)
+
+[Carbon](https://carbon.now.sh/)
+
+[Vue电商后端管理API接口测试 - 全栈测试开发日记 - 博客园](https://www.cnblogs.com/liudinglong/p/12984567.html)
+
+[HttpFPT](https://wu-clan.github.io/httpfpt_docs/)（一个强大的自动化测试框架）
+
+[胡加防腐剂/vue_api_server](https://gitee.com/HUJIAFANGFUJIDDD/vue_api_server)
+
+意志力：走出泥潭  
+系统力：走上正轨  
+
+[GitHub - xingshaocheng/architect-awesome: 后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome/tree/master)
+
+[Manus](https://manus.im/)
+
+[百宝箱](https://tbox.alipay.com/pro-about?openLogin=true)
+
+[小菠萝测试笔记](https://www.yuque.com/poloyy)
+
+![](https://cdn.nlark.com/yuque/0/2025/png/38366403/1744595423568-af8b83d3-34f5-4dcf-a055-36467d291616.png)
+
+[FEMA](https://zhuanlan.zhihu.com/p/523384133)（工程的美）
+
+[豆包 MarsCode——智能编码，一触即发](https://www.marscode.cn/practice/75l86r1y719nw4)
+
+[2.开发实战篇-DeepSeek入门宝典.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595509617-0577eed7-7779-455f-add7-89b497c53dd7.pdf)[3.行业应用篇-DeepSeek入门宝典.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595508868-db5ba12c-6c37-4085-abc4-e9c2bf8cf577.pdf)[4.个人使用篇-DeepSeek入门宝典.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595510753-f73b242c-c23d-4e24-9eb7-6c237f1b7891.pdf)[DeepSeek从入门到精通（清华大学版）.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595514289-17ff0785-e0fd-40ae-915a-3db5a8911ee7.pdf)[1.技术解析篇-DeepSeek入门宝典.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595509585-d54e6782-53c6-43dc-a2dd-81384f60753f.pdf)
+
+[软测书单](https://zhuanlan.zhihu.com/p/32472833)（收藏不看）
+
+[摄影RAW原图下载-照片处理网-PS论坛-摄影后期 - Lightroom摄影PhotoShop后期](http://bbs.photops.com/thread-htm-fid-66-search-digest-type-226.html)（raw图网站，修图练习素材）
+
+[https://www.bilibili.com/video/BV1X94y1g7ps?p=82](https://www.bilibili.com/video/BV1X94y1g7ps?p=82)
+
+[自动化测试架构图](https://baijiahao.baidu.com/s?id=1795283984340679323&wfr=spider&for=pc)（画架构图参考）
+
+[自动化测试平台 django 技术 架构图_mob6454cc69d373的技术博客_51CTO博客](https://blog.51cto.com/u_16099224/12336799)（画架构图参考）
+
+[01-coding.md](https://www.yuque.com/attachments/yuque/0/2025/md/38366403/1744595671161-8cd68dfc-5605-44e4-b98d-6de6b22507aa.md)（cursor编程rules）
+
+[Genspark](https://www.genspark.ai/)
+
+```plain
+1.质疑每项要求。提出任何一项要求时，都应该附上提出这一要求的人。永远不要接受一项来自某个部门的要求，比如来自“法务部门”或者“安全部门”的要求。你必须知道提出这项要求的人的名字。接下来你应该质疑它，不管这个人有多聪明。聪明人提出的要求才是最危险的，因为人们不太可能质疑他们。这件事要一直做下去，即便这项要求来自我马斯克本人。质疑后，大家就要改进要求，让它变得不那么愚蠢。
+         
+2.删除要求当中所有你能删除的部分和流程，虽然你可能还得把它们加回来。事实上，你如果最后加回来的部分还不到删除部分的10%，那就说明你删减得还不够。
+         
+3.简化和优化。这应该放在第2步之后，因为人们常犯的错误就是简化和优化一个原本不应该存在的部分或者流程。
+         
+4.加快周转时间。每个流程都可以加快，但只有遵循了前三个步骤之后才能这么做。在特斯拉工厂，我错误地把很多精力花在加快生产流程上，后来我才意识到有些流程原本就应该被拿掉。
+         
+5.自动化。在内华达工厂和弗里蒙特工厂犯下的一个大错就是我一开始试图将每个步骤进行自动化改造。我们本应该先质疑所有要求，删除不必要的部分和流程，把问题筛出来、处理掉，然后再推进自动化。
+         
+这套工作法有时还衍生出一些推论，包括：
+         
+• 所有技术经理都必须有实战经验，比如说软件团队的管理人员必须至少花20%的时间进行编程，太阳能屋顶业务的经理必须花时间在屋顶上亲自做安装工作。否则光说不练，他们就像是不会骑马的骑兵队队长、不会舞刀弄枪的将军。
+         
+• “你好，我好，大家好”是很危险的，人们会因此不再质疑同事的工作成果。人们天然有一种倾向是不想把要好的同事踢下船，而这种危险倾向一定要避免。
+         
+• 犯错没关系，但错了还不肯低头就不行。
+         
+• 永远不要要求你的团队做你自己都不愿意做的事。
+         
+• 每当有问题需要解决时，不要只与你直接管理的相关负责人聊。深入调研就要跨层级沟通，去跟你属下的属下直接交流吧。
+         
+• 招聘要招态度端正的人。技能是可以教的，但要扭转一个人的工作态度可就太费劲了，得给他“换个脑子”。
+         
+• 疯狂的紧迫感是我们公司运作的法则。
+         
+• 唯一要遵守的规则就是物理学定律能推导出来的规则，其他一切都只是建议。
+```
+
+[PlantUML_Language_Reference_Guide_zh.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744595859626-858703b7-6a6c-4222-b25d-2fb0d507c1e0.pdf)
+
+[如何创建不同安卓版本/位数的模拟器？ | 夜神模拟器帮助中心](https://support.yeshen.com/zh-CN/often/multi-drive3)
+
+[RuntimeError: ‘cryptography‘ package is required for sha256_password or caching_sha2_password auth m_mysql8 “error: ‘cryptography’ package is required -CSDN博客](https://blog.csdn.net/weixin_54626591/article/details/136029362)
+
+[GitHub - fityanos/awesome-quality-assurance-roadmap: :books: The starting point of your career as a Software Quality Assurance Engineer | Quality Automation Engineer :books:](https://github.com/fityanos/awesome-quality-assurance-roadmap)
+
+[GitHub - edu2act/course-interface-testing: 软件测试方向，《接口测试》课程仓库](https://github.com/edu2act/course-interface-testing)
+
+[YouTube 推荐算法及背后机理-网络营销咨询|网络营销外包公司-26年资深互联网营销策划-启洋科技](https://www.marketingbetter.com/youtube-recommendation-algorithm/)
+
+```plain
+• 回答先决问题：你取得了何种收获？哪些事情做得不错？哪些还可做得更好？今后可做出哪些改进？
+• 与利益相关方的沟通：向你的上司、同事、委托人、顾客、股东、承包商等通报项目完成状态及相关成果。
+• 评估成功标准：该项目的目标是否达成？判定成败的依据为何？投资回报率是多少？
+• 正式结束项目并开展庆祝：做好发送邮件、发票、收据、反馈表、文档等收尾工作，与团队或合作者一道庆功并享受满足感。 
+```
+
+[OKR_Worksheet.pdf](https://www.yuque.com/attachments/yuque/0/2025/pdf/38366403/1744596255732-e3bd0699-66ce-4420-b629-b2d0a56f1ee2.pdf)（OKR工作法大拿的表格，自己没啥用）
+
+[吴恩达提示词工程笔记.md](https://www.yuque.com/attachments/yuque/0/2025/md/38366403/1744596557188-1a1decd3-17a6-4f5c-9bc6-4b4f2e203d44.md)（自学吴恩达提示词工程课程做的笔记，有jupyter版本，可以直接运行代码）
+
+[W3Schools.com](https://www.w3schools.com/django/index.php)
+
+[Developer Roadmaps - roadmap.sh](https://roadmap.sh/)（技术路线图）
+
+/kuai
+
+```bash
+对于学习语言，我一直推崇的都是 CSAPP，经典中的经典。
+语言不过是工具罢了。
+推荐 UCB 的 CS61A/61B/61C，分别对应程序语言设计/数据结构/计算机体系结构
+```
+
+[https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)
+
+[https://cs61a.org/](https://cs61a.org/)
+
+[https://sp25.datastructur.es/](https://sp25.datastructur.es/)
+
+[https://cs61c.org/sp25/](https://cs61c.org/sp25/)
+
+[https://csdiy.wiki/](https://csdiy.wiki/)
+
+[大数据分析引擎ES](https://baike.baidu.com/item/Elasticsearch/3411206?fr=aladdin)
+
+[https://www.min2k.com/](https://www.min2k.com/)   ——小而美的工具网站
+
+[https://github.com/lin-123/javascript](https://github.com/lin-123/javascript)——前端代码规范
+
+[https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL](https://v11enp9ok1h.feishu.cn/wiki/KiIvwdFOciiqqNkwKzTcmn88ndL)
+
+[https://excalidraw.com/](https://excalidraw.com/)
+
+[https://hamibot.com/](https://hamibot.com/)
+
+<details class="lake-collapse"><summary id="u84062df0"><span class="ne-text">mermaid和plantUML</span></summary><p id="u70fa3740" class="ne-p"><span class="ne-text">Mermaid 和 PlantUML 都是用来创建图表的工具，但它们在实现方式、语法以及适用场景上有所不同。下面我将分别介绍这两种工具，并比较它们的特点。</span></p><h3 id="RblE9"><span class="ne-text">Mermaid</span></h3><p id="u121c5d3f" class="ne-p"><strong><span class="ne-text">简介</span></strong><span class="ne-text">:</span></p><ul class="ne-ul"><li id="udc54975a" data-lake-index-type="0"><span class="ne-text">Mermaid 是一种基于 JavaScript 的图表绘制工具，允许用户通过简单的文本描述来生成复杂的图表。</span></li><li id="ua20d652e" data-lake-index-type="0"><span class="ne-text">它支持多种类型的图表，包括流程图、序列图、甘特图等。</span></li><li id="ucf9a4841" data-lake-index-type="0"><span class="ne-text">可以直接嵌入到 Markdown 文档中使用，非常适合技术文档或在线笔记中的快速图表制作。<br /></span><strong><span class="ne-text">特点</span></strong><span class="ne-text">:</span></li><li id="ufc1999fa" data-lake-index-type="0"><strong><span class="ne-text">易用性</span></strong><span class="ne-text">: 语法相对简单直观，对于初学者友好。</span></li><li id="udeb89819" data-lake-index-type="0"><strong><span class="ne-text">灵活性</span></strong><span class="ne-text">: 支持多种图表类型，并且可以自定义样式。</span></li><li id="u0b01a8a7" data-lake-index-type="0"><strong><span class="ne-text">集成性</span></strong><span class="ne-text">: 能够很好地与现代Web技术栈结合，如React, Vue等前端框架。</span></li><li id="u03613dd6" data-lake-index-type="0"><strong><span class="ne-text">社区活跃度高</span></strong><span class="ne-text">: 开源项目，有活跃的开发者社区支持。</span></li></ul><h3 id="EDcqo"><span class="ne-text">PlantUML</span></h3><p id="u7b633cba" class="ne-p"><strong><span class="ne-text">简介</span></strong><span class="ne-text">:</span></p><ul class="ne-ul"><li id="ua3680826" data-lake-index-type="0"><span class="ne-text">PlantUML 使用一种类似于 UML (统一建模语言) 的文本格式来描述图形结构，然后将其转换为图像输出。</span></li><li id="u47bc3aa1" data-lake-index-type="0"><span class="ne-text">支持非常广泛的图表类型，不仅限于UML图（如类图、状态图），还包括时序图、活动图等。</span></li><li id="ufc70b40d" data-lake-index-type="0"><span class="ne-text">通常需要服务器端处理或将代码发送到远程服务来渲染图片。<br /></span><strong><span class="ne-text">特点</span></strong><span class="ne-text">:</span></li><li id="ua0893c99" data-lake-index-type="0"><strong><span class="ne-text">强大的功能</span></strong><span class="ne-text">: 提供了极其丰富的绘图选项，几乎覆盖所有常见的图表需求。</span></li><li id="u09cb4ab2" data-lake-index-type="0"><strong><span class="ne-text">兼容性好</span></strong><span class="ne-text">: 可以与许多开发环境和编辑器集成，比如Eclipse, IntelliJ IDEA等。</span></li><li id="u9f08ee40" data-lake-index-type="0"><strong><span class="ne-text">离线工作能力</span></strong><span class="ne-text">: 如果设置了本地服务器，则可以在没有互联网连接的情况下生成图表。</span></li><li id="uc2183b9d" data-lake-index-type="0"><strong><span class="ne-text">学习曲线较陡峭</span></strong><span class="ne-text">: 对于新手来说可能需要一些时间去熟悉其语法。</span></li></ul><h3 id="ieWq0"><span class="ne-text">比较</span></h3><ul class="ne-ul"><li id="u8509ea39" data-lake-index-type="0"><strong><span class="ne-text">易学性</span></strong><span class="ne-text">: Mermaid 更加适合初学者快速上手；而 PlantUML 则更适合那些已经有一定基础并且希望深入探索复杂图表设计的人。</span></li><li id="ub98c780c" data-lake-index-type="0"><strong><span class="ne-text">功能性</span></strong><span class="ne-text">: 在图表种类和支持程度方面，PlantUML 明显更胜一筹，能够满足更加专业的需求。</span></li><li id="u62a3bbfc" data-lake-index-type="0"><strong><span class="ne-text">使用场景</span></strong><span class="ne-text">: 如果你主要是在编写Markdown文档或者构建静态网站时需要插入图表，那么 Mermaid 可能是更好的选择；如果是在软件开发过程中需要用到详细的UML图或其他复杂图表，则 PlantUML 会是更合适的选择。</span></li><li id="ud9141baf" data-lake-index-type="0"><strong><span class="ne-text">部署方式</span></strong><span class="ne-text">: Mermaid 基本上是客户端运行，无需额外配置；而 PlantUML 可能需要设置本地Java环境或者使用在线服务来进行渲染。<br /></span><span class="ne-text">总之，两者各有优势，在选择时可以根据具体的应用场景和个人偏好来做决定。</span></li></ul></details>
+[https://funboost.readthedocs.io/zh-cn/latest/articles/c1.html](https://funboost.readthedocs.io/zh-cn/latest/articles/c1.html)
+
+[https://github.com/ydf0509/celery_demo](https://github.com/ydf0509/celery_demo)
+
+[请进行安全验证(Security Verification)](https://blog.csdn.net/weixin_50556117/article/details/140411901)
+
